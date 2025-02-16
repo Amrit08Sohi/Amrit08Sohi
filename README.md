@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amritpal Singh</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-
+<div><img style = "width : 100vw; height: 26vh" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hqbml4MjhuMWUwYWRyOHB1YmZpN2pzNWY0ZDI2OTJ6ZGJnNWM0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif"></img></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
